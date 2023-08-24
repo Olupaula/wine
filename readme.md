@@ -34,3 +34,4 @@ of the three models were compared and the K-Means had the best performance, sinc
 
 
 
+

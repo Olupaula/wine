@@ -25,7 +25,7 @@ The target is: class
 ## Methods
 This work uses unsupervised learning techniques, viz., K-Means, Busecting K-Means and Mini-Batch K-Means to cluster wines with 13 features. Each feature has its label, however the interest in this work is to compare the three unsupervised learning methods stated above. 
 
-## Model Performance Evaluation
+## Models Performances Evaluation
 1. Inertial: here, the best model is the one with lowest inertia or sum of square error.
 2. Accuracy Score: using the pre-existing labels, the accuracy of clustering of the three methods. The higher the accuracy, the better the model.
 

@@ -1,5 +1,5 @@
 # Cluster Analysis of Branded Wines
-Wine is a great drink for many people. it remains true that our world cannot be demand for it. It therefore makes good sense if wine can be categorized into a number of classes by a seller or even the consumer of the wine. This can be achieved using a suitable Machine Learning clustering model.
+Wine is a great drink for many people. it remains true that our world cannot stop demanding for it. It therefore makes good sense if wine can be categorized into a number of classes by a seller or even the consumer of the wine. Clustering of wines, may help the seller know which brand of wines have similar properties, so that he can for instance suggest any brand of wine that belongs to a given cluster as an alternative to any other brand of wine that belongs the same cluster - this may help his sale.  This can be achieved using a suitable Machine Learning clustering model.
 
 ## Data Source
 UCL Machine Learning Repository
